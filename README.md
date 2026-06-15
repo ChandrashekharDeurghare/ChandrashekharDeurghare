@@ -7,7 +7,7 @@ All about me
 
 ### Happy to see you here!&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=chandrashekhar-deurghare.chandrashekhar-deurghare)
 
-Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am highly skilled in transforming raw data into meaningful insights using tools like Python, SQL, Excel, and Power BI/Tableau. I love playing with datasets, building interactive dashboards.
+Meet me, Chandrashekhar Deurghare. I am a passionate Data Analyst Aspirant, I am highly skilled in transforming raw data into meaningful insights using tools like Excel, Power BI, SQL, and Paython. I love playing with datasets, building interactive dashboards.
 
 <img align="right" alt="GIF" src="https://github.com/ChandrashekharDeurghare/About-Me/blob/bd2f336b28a808d4357b876bfc388c624a6da353/Global%20Sales%20Dashboard.png" width="400" height="225" />
 
